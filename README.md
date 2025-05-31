@@ -167,4 +167,3 @@ python main.py \
 + workspace_path: The directory where Joern and Jelly will write their analysis results.
 + overwrite: If you do **not** want to overwrite previous results, simply omit the --overwrite flag.
 
-README
